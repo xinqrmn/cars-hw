@@ -15,7 +15,7 @@ An application for managing car information. Developed using Angular.
 ## 🖥️ How to Run the Project?
 + Clone the repository:
 ```bash
-  git clone <REPOSITORY_URL>
+  git clone https://xinqrmn.github.io/cars-hw/
 ```
 
 + Install dependencies:
